@@ -30,11 +30,11 @@
         </tr>
         <tr>
             <td>14:00 às 15:40</td>
-            <td>Cálculo Diferencial</td>
+            <td>[Cálculo Diferencial](calculo_diferencial/README.md)</td>
             <td>Leitura e Produção Textual</td>
-            <td>Cálculo Diferencial</td>
+            <td>[Cálculo Diferencial](calculo_diferencial/README.md)</td>
             <td></td>
-            <td>Cálculo Diferencial</td>
+            <td>[Cálculo Diferencial](calculo_diferencial/README.md)</td>
         </tr>
         <tr>
             <td>16:00 às 17:40</td>
